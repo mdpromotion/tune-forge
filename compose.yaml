@@ -1,0 +1,7 @@
+﻿services:
+  tune-forge:
+    image: tune-forge
+    build:
+      context: .
+      dockerfile: Dockerfile
+

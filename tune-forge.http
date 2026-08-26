@@ -1,0 +1,6 @@
+@tune_forge_HostAddress = http://localhost:5090
+
+GET {{tune_forge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
