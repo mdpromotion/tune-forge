@@ -14,7 +14,6 @@
 
     <ItemGroup>
       <Folder Include="src\Controllers\" />
-      <Folder Include="src\Features\" />
       <Folder Include="src\Tests\" />
     </ItemGroup>
 
